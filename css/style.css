@@ -131,10 +131,14 @@ table {
 
 a {
   color: inherit;
-  font-style: none;
+  text-decoration: none;
 }
 
 /* css */
+
+body {
+  background-color: #d4d5d6;
+}
 
 .lrg-nav {
   padding-top: 18px;
@@ -194,4 +198,34 @@ nav div a {
   height: 20px;
   border: none;
   border-radius: 50px;
+}
+
+.mid-nav-links {
+  width: 93%;
+  height: 54px;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.mid-nav-link-cont {
+  height: 55px;
+}
+
+.mid-nav-link::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  content: "";
+  border-top: 13px solid #f72210;
+  border-left: 12px solid white;
+  width: 66px;
+}
+
+.bottom-nav-links-cont {
+  height: 45px;
+}
+
+.bottom-nav-links {
+  width: 70%;
+  height: 45px;
 }

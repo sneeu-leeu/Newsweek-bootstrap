@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -34,24 +34,37 @@
         </div>
       </nav>
     </div>
-    <div class="container d-none d-lg-block">
-      <nav>
-        <ul>
-          <li> <a href="#">U.S</a> </li>
-          <li> <a href="#">World</a> </li>
-          <li> <a href="#">Business</a> </li>
-          <li> <a href="#">Tech & Science</a> </li>
-          <li> <a href="#">Culture</a> </li>
-          <li> <a href="#">News Geek</a> </li>
-          <li> <a href="#">Sports</a> </li>
-          <li> <a href="#">Health</a> </li>
-          <li> <a href="#">The Debate</a> </li>
-          <li> <a href="#">Vantage</a> </li>
-          <li> <a href="#">Weather</a> </li>
-          <li> search <i class="fas fa-search"></i> </li>
+    <div class="mid-nav-link-cont container d-none d-lg-block bg-light position-relative border-bottom border-secondary">
+      <nav class="mid-nav-link">
+        <ul class="d-flex justify-content-around mid-nav-links align-items-center roboto font-weight-bold">
+          <li class="border-right pr-2"> <a class="text-dark" href="#">U.S</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">World</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">Business</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">Tech & Science</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">Culture</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">News Geek</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">Sports</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">Health</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">The Debate</a> </li>
+          <li class="border-right pr-2 ml-2"> <a class="text-dark" href="#">Vantage</a> </li>
+          <li class="pr-3"> <a class="text-dark" href="#">Weather</a> </li>
+          <li class="font-weight-normal"> search <i class="fas fa-search"></i> </li>
         </ul>
       </nav>
     </div>
+    <div class="bottom-nav-links-cont container d-flex align-items-center bg-light border-bottom border-secondary">
+      <nav class="bottom-nav-links">
+        <ul class="d-flex justify-content-around pt-2 roboto">
+          <li><a class="text-dark" href="#">TRENDING</a></li>
+          <li><a class="text-secondary align-self-center" href="#">DONALD TRUMP</a></li>
+          <li><a class="text-secondary" href="#">JOE BIDEN</a></li>
+          <li><a class="text-secondary" href="#">CHINA</a></li>
+          <li><a class="text-secondary" href="#">CORONAVIRUS</a></li>
+          <li><a class="text-secondary" href="#">2020 ELECTIONS</a></li>
+        </ul>
+      </nav>
+    </div>
+
     <!-- medium & small navbar-->
     <nav class="navbar-top d-lg-none d-flex justify-content-between align-items-center">
       <div class="logo-small ml-3">
@@ -66,7 +79,8 @@
       </div>
       <div class="d-flex align-items-center">
         <i class="fas fa-user-alt person text-light mr-3 d-block d-md-none"></i>
-        <button class=" mr-2 subscribe-btn-sm font-13 font-weight-bold bg-warning roboto" type="button">SUBSCRIBE ></button>
+        <button class=" mr-2 subscribe-btn-sm font-13 font-weight-bold bg-warning roboto" type="button">SUBSCRIBE
+          ></button>
         <i class="mr-2 fas fa-bars text-light"></i>
       </div>
 
