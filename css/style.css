@@ -141,6 +141,7 @@ a {
 
 /* css */
 
+
 body {
   background-color: #d4d5d6;
 }
@@ -233,6 +234,15 @@ nav div a {
 .bottom-nav-links {
   width: 70%;
   height: 45px;
+}
+
+.img-aside-width {
+  width: 25%;
+}
+
+.img-aside-width-1 {
+  width: 66px;
+  height: 66px;
 }
 
 /* Featured Stories */
