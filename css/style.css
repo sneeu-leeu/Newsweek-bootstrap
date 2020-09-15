@@ -289,3 +289,15 @@ nav div a {
   background-color: #f72210;
   color: white;
 }
+
+@media (min-width: 1200px) and (max-width: 1339px) {
+  .container-xl {
+    max-width: 97% !important;
+  }
+}
+
+@media (min-width: 1340px) {
+  .container-xl {
+    max-width: 1310px !important;
+  }
+}
