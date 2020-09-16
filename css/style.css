@@ -116,6 +116,7 @@ blockquote,
 q {
   quotes: none;
 }
+
 blockquote::before,
 blockquote::after,
 q::before,
@@ -140,11 +141,6 @@ a {
 }
 
 /* css */
-
-
-body {
-  background-color: #d4d5d6;
-}
 
 header .navbar-top {
   height: 50px;
@@ -193,7 +189,6 @@ nav div a {
   font-size: 0.5em;
 }
 
-
 .font-13 {
   font-size: 13px;
 }
@@ -209,7 +204,6 @@ nav div a {
   width: 236px;
   fill: #f72210;
 }
-
 
 .logo-small {
   width: 132px;
@@ -280,8 +274,8 @@ nav div a {
   left: 0;
 }
 
-.debate-txt-cont{
- margin-top: 1.5px;
+.debate-txt-cont {
+  margin-top: 1.5px;
 }
 
 .vs-tag {
@@ -322,12 +316,12 @@ nav div a {
   color: white;
 }
 
-.imges-left{
+.imges-left {
   height: 284px;
 }
 
 .newsletter {
- width: 85%;
+  width: 85%;
 }
 
 .newsletter input {
@@ -337,10 +331,6 @@ nav div a {
 .magazine-cover-1 {
   top: 40px;
   left: 60px;
-}
-
-.sub-btn {
-
 }
 
 @media (min-width: 1200px) and (max-width: 1339px) {
