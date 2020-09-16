@@ -34,9 +34,9 @@ Newsweek clone. Project 7 of 40. Microverse.
 
 👤 **Author1**
 
-- Github: [@eananti](https://github.com/ceejayski)
-- Twitter: [@e_ananti](https://twitter.com/ceejayski1)
-- Linkedin: [Emeka Ananti](https://www.linkedin.com/in/okolichijioke/)
+- Github: [@Ceejayski](https://github.com/ceejayski)
+- Twitter: [@Ceejayski](https://twitter.com/ceejayski1)
+- Linkedin: [Ceejay Okoli](https://www.linkedin.com/in/okolichijioke/)
 
 👤 **Author2**
 
