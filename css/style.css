@@ -315,7 +315,6 @@ nav div a {
 }
 
 .article-btn {
-  width: 40%;
   height: 40px;
   border: none;
   border-radius: 3px;
@@ -324,7 +323,15 @@ nav div a {
 }
 
 .imges-left{
-  height: 288px;
+  height: 284px;
+}
+
+.newsletter {
+ width: 85%;
+}
+
+.newsletter input {
+  height: 40px;
 }
 
 .magazine-cover-1 {
