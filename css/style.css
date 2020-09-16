@@ -130,7 +130,7 @@ table {
 }
 
 a {
-  color: inherit;
+  color: inherit !important;
   text-decoration: none;
 }
 
@@ -203,6 +203,13 @@ nav div a {
   width: 395px;
   fill: #fff;
 }
+
+.footer-logo {
+  height: 36px;
+  width: 236px;
+  fill: #f72210;
+}
+
 
 .logo-small {
   width: 132px;
@@ -332,4 +339,10 @@ nav div a {
   .container-xl {
     max-width: 1310px !important;
   }
+}
+
+/* footer */
+
+.footer-icons {
+  font-size: 1.5em;
 }
