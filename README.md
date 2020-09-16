@@ -28,7 +28,7 @@ Newsweek clone. Project 7 of 40. Microverse.
 
 ## Live Demo
 
-[Live Demo Link](https://https://ecstatic-snyder-879536.netlify.app)
+[Live Demo Link](https://ecstatic-snyder-879536.netlify.app)
 
 ## Authors
 
