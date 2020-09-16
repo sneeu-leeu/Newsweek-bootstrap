@@ -41,7 +41,7 @@ Newsweek clone. Project 7 of 40. Microverse.
 👤 **Author2**
 
 - Github: [@Stephan](https://github.com/sneeu-leeu)
-- Linkedin: [GzimAsani](https://www.linkedin.com/in/stephan-annandale-a4b4931a9/)
+- Linkedin: [Stephan Annandale](https://www.linkedin.com/in/stephan-annandale-a4b4931a9/)
 
 ## Show your support
 
