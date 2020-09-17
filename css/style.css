@@ -203,6 +203,23 @@ nav div a {
   }
 }
 
+@media (max-width: 767px) {
+
+  .imges-left {
+    padding-left: 15%;
+  }
+
+  .magazine-cover-1 {
+    left: 25%;
+  }
+
+  .imges-right {
+    display: flex;
+    flex-direction: column;
+    Justify-content: center;
+  }
+}
+
 /* footer */
 
 .footer-icons {
