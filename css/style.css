@@ -193,13 +193,13 @@ nav div a {
 
 @media (min-width: 1200px) and (max-width: 1339px) {
   .container-xl {
-    max-width: 97% !important;
+    max-width: 97%;
   }
 }
 
 @media (min-width: 1340px) {
   .container-xl {
-    max-width: 1310px !important;
+    max-width: 1310px;
   }
 }
 
